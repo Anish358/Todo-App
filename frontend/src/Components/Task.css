@@ -1,0 +1,12 @@
+.card-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-body {
+  background-color: aquamarine;
+}
+
+.btn-container button {
+  margin-left: 20px;
+}
